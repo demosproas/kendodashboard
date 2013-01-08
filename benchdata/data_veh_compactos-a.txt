@@ -1,0 +1,54 @@
+{
+"items":
+[
+	{
+		"text": "CHRYSLER ATTITUDE GL 1.4 CD ESTANDAR SEDAN 4C 4P 5OC-2009",
+		"value": "99"
+	}
+	,
+	{
+		"text": "FORD FIESTA FIRST AA CD ESTANDAR SEDAN 4C 4P 5OC-2007",
+		"value": "41"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS AVEO F AA EE CD AUTOMATICO SEDAN 4C 4P 5OC-2010",
+		"value": "47"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS CORSA C COMFORT AA EE CD BA ESTANDAR SEDAN 4C 4P 5OC-2005",
+		"value": "111"
+	}
+	,
+	{
+		"text": "MITSUBISHI LANCER ES AA EE AUTOMATICO SEDAN 4C 4P 5OC-2008",
+		"value": "61"
+	}
+	,
+	{
+		"text": "NISSAN APRIO BASE AA ESTANDAR SEDAN 4C 4P 5OC-2008",
+		"value": "100"
+	}
+	,
+	{
+		"text": "NISSAN PLATINA K AA CD ESTANDAR SEDAN 4C 4P 5OC-2005",
+		"value": "64"
+	}
+	,
+	{
+		"text": "NISSAN TSURU GSII AA ESTANDAR SEDAN 4C 4P 5OC-2005",
+		"value": "63"
+	}
+	,
+	{
+		"text": "NISSAN VERSA SENSE TA AA AUTOMATICO SEDAN 4C 4P 5OC-2011",
+		"value": "151"
+	}
+	,
+	{
+		"text": "NISSAN VERSA SENSE TA AA AUTOMATICO SEDAN 4C 4P 5OC-2012",
+		"value": "151"
+	}
+]
+}

@@ -1,0 +1,88 @@
+{
+"marcas":
+[
+	{
+		"nombre": "CHRYSLER",
+		"imagen": "CHRYSLER.png",
+		"valor": "6.20"
+	}
+	,
+	{
+		"nombre": "FORD",
+		"imagen": "FORD.png",
+		"valor": "7.08"
+	}
+	,
+	{
+		"nombre": "GENERAL MOTORS",
+		"imagen": "GENERAL-MOTORS.png",
+		"valor": "6.90"
+	}
+	,
+	{
+		"nombre": "HONDA",
+		"imagen": "HONDA.png",
+		"valor": "6.56"
+	}
+	,
+	{
+		"nombre": "JEEP",
+		"imagen": "JEEP.png",
+		"valor": "7.08"
+	}
+	,
+	{
+		"nombre": "MAZDA",
+		"imagen": "MAZDA.png",
+		"valor": "8.13"
+	}
+	,
+	{
+		"nombre": "MITSUBISHI",
+		"imagen": "MITSUBISHI.png",
+		"valor": "8.33"
+	}
+	,
+	{
+		"nombre": "NISSAN",
+		"imagen": "NISSAN.png",
+		"valor": "5.87"
+	}
+	,
+	{
+		"nombre": "PEUGEOT",
+		"imagen": "PEUGEOT.png",
+		"valor": "5.00"
+	}
+	,
+	{
+		"nombre": "PONTIAC",
+		"imagen": "PONTIAC.png",
+		"valor": "8.75"
+	}
+	,
+	{
+		"nombre": "RENAULT",
+		"imagen": "RENAULT.png",
+		"valor": "6.25"
+	}
+	,
+	{
+		"nombre": "SEAT",
+		"imagen": "SEAT.png",
+		"valor": "6.25"
+	}
+	,
+	{
+		"nombre": "TOYOTA",
+		"imagen": "TOYOTA.png",
+		"valor": "7.08"
+	}
+	,
+	{
+		"nombre": "VOLKSWAGEN",
+		"imagen": "VOLKSWAGEN.png",
+		"valor": "6.67"
+	}
+]
+}

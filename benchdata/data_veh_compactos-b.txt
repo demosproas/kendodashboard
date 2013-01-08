@@ -1,0 +1,69 @@
+{
+"items":
+[
+	{
+		"text": "CHRYSLER AVENGER SE 2.4L AA EE CD BA AUTOMATICO SEDAN 4C 4P 5OC-2008",
+		"value": "35"
+	}
+	,
+	{
+		"text": "CHRYSLER STRATUS SE AA AUTOMATICO SEDAN 4C 4P 5OC-2005",
+		"value": "38"
+	}
+	,
+	{
+		"text": "FORD FOCUS LX AUSTERO AA ESTANDAR SEDAN 4C 4P 5OC-2005",
+		"value": "42"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS MALIBU LT AA EE CD BA QC AUTOMATICO SEDAN 6C 4P 5OC-2008",
+		"value": "50"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS OPTRA M AA EE CD ESTANDAR SEDAN 4C 4P 5OC-2007",
+		"value": "51"
+	}
+	,
+	{
+		"text": "HONDA CIVIC EX AA BA QC ESTANDAR SEDAN 4C 4P 5OC-2006",
+		"value": "55"
+	}
+	,
+	{
+		"text": "MAZDA 3 S AA EE CD BA QC AUTOMATICO SEDAN 4C 4P 5OC-2010",
+		"value": "60"
+	}
+	,
+	{
+		"text": "NISSAN SENTRA EMOTION AA EE CD BA ESTANDAR SEDAN 4C 4P 5OC-2008",
+		"value": "66"
+	}
+	,
+	{
+		"text": "NISSAN TIIDA EMOTION AA EE CD BA ESTANDAR HATCHBACK 4C 5P 5OC-2007",
+		"value": "67"
+	}
+	,
+	{
+		"text": "RENAULT MEGANE II EXPRESSION AA EE CD BA QC ESTANDAR HATCHBACK 4C 3P 5OC-2007",
+		"value": "73"
+	}
+	,
+	{
+		"text": "TOYOTA COROLLA CE AA EE AUTOMATICO SEDAN 4C 4P 5OC-2007",
+		"value": "78"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN JETTA G.4 EUROPA AA ESTANDAR SEDAN 4C 4P 5OC-2004",
+		"value": "85"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN NUEVO JETTA STYLE AA ESTANDAR SEDAN 4C 4P 5OC-2011",
+		"value": "152"
+	}
+]
+}

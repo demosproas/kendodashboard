@@ -1,0 +1,24 @@
+{
+"items":
+[
+	{
+		"text": "HONDA ACCORD EX AA AUTOMATICO SEDAN 4C 4P 5OC-2007",
+		"value": "54"
+	}
+	,
+	{
+		"text": "NISSAN ALTIMA SE 3.5L AA EE CD BA QC CVT SEDAN 6C 4P 5OC-2007",
+		"value": "62"
+	}
+	,
+	{
+		"text": "TOYOTA CAMRY LE AA EE CD BA AUTOMATICO SEDAN 4C 4P 5OC-2007",
+		"value": "77"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN BORA GLI AA EE CD BA QC AUTOMATICO SEDAN 4C 4P 5OC-2008",
+		"value": "82"
+	}
+]
+}

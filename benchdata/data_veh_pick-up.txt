@@ -1,0 +1,34 @@
+{
+"items":
+[
+	{
+		"text": "CHRYSLER RAM 2500 SLT QUAD CAB 4X2 AA AUTOMATICO PICK UP 8C 2P 3OC-2007",
+		"value": "37"
+	}
+	,
+	{
+		"text": "FORD LOBO XLT SUP CAB 4X2 AA AUTOMATICO PICK UP 8C 4P 5OC-2007",
+		"value": "46"
+	}
+	,
+	{
+		"text": "FORD RANGER XL CREW CAB EE ESTANDAR PICK UP 4C 4P 5OC-2006",
+		"value": "45"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS SILVERADO 2500 AUTOMATICO PICK UP 8C 2P 3OC-2008",
+		"value": "52"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS TORNADO B ESTANDAR PICK UP 4C 2P 2OC-2007",
+		"value": "53"
+	}
+	,
+	{
+		"text": "NISSAN CHASIS LARGO DH ESTANDAR CHASIS CABINA 4C 2P 3OC-2006",
+		"value": "69"
+	}
+]
+}

@@ -1,0 +1,641 @@
+[
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 9255.04,
+		"lugar": 8,
+		"variacion": 1.07,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 9207.58,
+		"lugar": 8,
+		"variacion": 1.06,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 9255.04,
+		"lugar": 8,
+		"variacion": 1.07,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 8191.37,
+		"lugar": 6,
+		"variacion": 0.94,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 9098.84,
+		"lugar": 6,
+		"variacion": 1.05,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 9098.84,
+		"lugar": 5,
+		"variacion": 1.05,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 7927.11,
+		"lugar": 2,
+		"variacion": 0.91,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 7462.75,
+		"lugar": 1,
+		"variacion": 0.86,
+		"max": 9255.04,
+		"min": 7462.75,
+		"symbol": "HSBC"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 7674.79,
+		"lugar": 3,
+		"variacion": 1.00,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 7605.75,
+		"lugar": 4,
+		"variacion": 0.99,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 7674.79,
+		"lugar": 3,
+		"variacion": 1.00,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 7694.38,
+		"lugar": 5,
+		"variacion": 1.00,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 8308.54,
+		"lugar": 4,
+		"variacion": 1.08,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 7536.19,
+		"lugar": 3,
+		"variacion": 0.98,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 7536.19,
+		"lugar": 1,
+		"variacion": 0.98,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 7536.19,
+		"lugar": 2,
+		"variacion": 0.98,
+		"max": 8308.54,
+		"min": 7536.19,
+		"symbol": "ABA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 8018.78,
+		"lugar": 4,
+		"variacion": 1.12,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 5059.76,
+		"lugar": 2,
+		"variacion": 0.71,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 8018.78,
+		"lugar": 4,
+		"variacion": 1.12,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 6401.82,
+		"lugar": 3,
+		"variacion": 0.89,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 6401.82,
+		"lugar": 2,
+		"variacion": 0.89,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 6401.82,
+		"lugar": 1,
+		"variacion": 0.89,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 8501.75,
+		"lugar": 3,
+		"variacion": 1.19,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 8501.75,
+		"lugar": 3,
+		"variacion": 1.19,
+		"max": 8501.75,
+		"min": 5059.76,
+		"symbol": "MAPFRE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 8586.48,
+		"lugar": 6,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 8586.48,
+		"lugar": 7,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 8586.48,
+		"lugar": 6,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 8586.48,
+		"lugar": 7,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 8586.48,
+		"lugar": 5,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 8586.48,
+		"lugar": 4,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 8586.48,
+		"lugar": 4,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 8586.50,
+		"lugar": 4,
+		"variacion": 1.00,
+		"max": 8586.50,
+		"min": 8586.48,
+		"symbol": "BANCOMER"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 9240.35,
+		"lugar": 7,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 8391.72,
+		"lugar": 5,
+		"variacion": 0.92,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 9240.35,
+		"lugar": 7,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 9240.35,
+		"lugar": 8,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 9240.35,
+		"lugar": 7,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 9240.35,
+		"lugar": 6,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 9240.35,
+		"lugar": 5,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 9240.35,
+		"lugar": 5,
+		"variacion": 1.01,
+		"max": 9240.35,
+		"min": 8391.72,
+		"symbol": "BANORTE"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 4939.73,
+		"lugar": 1,
+		"variacion": 0.66,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 5469.98,
+		"lugar": 3,
+		"variacion": 0.73,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 4939.73,
+		"lugar": 1,
+		"variacion": 0.66,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 4797.06,
+		"lugar": 1,
+		"variacion": 0.64,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 10564.04,
+		"lugar": 8,
+		"variacion": 1.41,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 10564.04,
+		"lugar": 8,
+		"variacion": 1.41,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 9510.39,
+		"lugar": 8,
+		"variacion": 1.27,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 9334.17,
+		"lugar": 6,
+		"variacion": 1.24,
+		"max": 10564.04,
+		"min": 4797.06,
+		"symbol": "GNP"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 8459.07,
+		"lugar": 5,
+		"variacion": 1.03,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 8459.07,
+		"lugar": 6,
+		"variacion": 1.03,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 8459.07,
+		"lugar": 5,
+		"variacion": 1.03,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 7084.87,
+		"lugar": 4,
+		"variacion": 0.86,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 7084.87,
+		"lugar": 3,
+		"variacion": 0.86,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 7084.87,
+		"lugar": 2,
+		"variacion": 0.86,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 9449.47,
+		"lugar": 7,
+		"variacion": 1.15,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 9449.47,
+		"lugar": 7,
+		"variacion": 1.15,
+		"max": 9449.47,
+		"min": 7084.87,
+		"symbol": "AXA"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 8",
+		"primaprom": 5962.53,
+		"lugar": 2,
+		"variacion": 0.83,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 7",
+		"primaprom": 5012.18,
+		"lugar": 1,
+		"variacion": 0.70,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 6",
+		"primaprom": 5962.53,
+		"lugar": 2,
+		"variacion": 0.83,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 5",
+		"primaprom": 5870.95,
+		"lugar": 2,
+		"variacion": 0.82,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 4",
+		"primaprom": 5870.95,
+		"lugar": 1,
+		"variacion": 0.82,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 3",
+		"primaprom": 9438.06,
+		"lugar": 7,
+		"variacion": 1.32,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 2",
+		"primaprom": 9439.63,
+		"lugar": 6,
+		"variacion": 1.32,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+	,
+	{
+		"fecha": "ESTUDIO 1",
+		"primaprom": 9691.34,
+		"lugar": 8,
+		"variacion": 1.35,
+		"max": 9691.34,
+		"min": 5012.18,
+		"symbol": "QUALITAS"
+	}
+]

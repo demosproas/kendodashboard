@@ -1,0 +1,60 @@
+data.jason
+{
+	"data1":
+	{
+		"value":"abcde"
+	},
+	"data2":
+	[
+		{
+			"value1":"A",
+			"value2":"A"
+		},
+		{
+			"value1":"B",
+			"value2":"B"
+		},
+		{
+			"value1":"C",
+			"value2":"C"
+		},
+	]
+}
+Los elementos que van entre {} son accesibles mediante asociación de literales, mientras que los que están entre [] lo son mediante indexación.
+index.html
+<html>
+<head>
+<title></title>
+<script src="jquery-1.5.1.js"></script>
+<script src="js.js"></script>
+</head>
+<body>
+<div id="data"></div>
+</body>
+</html>
+js.js
+var data;
+ 
+$(document).ready(function() {
+	$.ajax({
+		url: "data.json",
+		data: "nocache=" + Math.random(),
+		type: "GET",
+		dataType: "json",
+		success: function(source){
+			data = source;
+			showInfo();
+		},
+		error: function(dato){
+			alert("ERROR");
+		}
+	});							
+});
+ 
+function showInfo(){
+	$("#data").append(data['data1']['value']);
+ 
+	$.each(data['data2'], function(index, value) {
+		$("#data").append('<p>index: ' + index + ' value1: ' + data['data2'][index]['value1']  + ' value2: ' + data['data2'][index]['value2'] + '</p>');
+	});
+}

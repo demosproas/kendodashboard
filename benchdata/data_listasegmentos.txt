@@ -1,0 +1,52 @@
+{
+"segmentos":
+[
+	{
+		"nombre": "COMPACTOS A",
+		"imagen": "COMPACTOS-A.png",
+		"valor": "5.83"
+	}
+	,
+	{
+		"nombre": "COMPACTOS B",
+		"imagen": "COMPACTOS-B.png",
+		"valor": "7.24"
+	}
+	,
+	{
+		"nombre": "DEPORTIVO",
+		"imagen": "DEPORTIVO.png",
+		"valor": "5.83"
+	}
+	,
+	{
+		"nombre": "MINIVAN",
+		"imagen": "MINIVAN.png",
+		"valor": "4.58"
+	}
+	,
+	{
+		"nombre": "PICK UP",
+		"imagen": "PICK-UP.png",
+		"valor": "5.76"
+	}
+	,
+	{
+		"nombre": "SEDAN LUJO",
+		"imagen": "SEDAN-LUJO.png",
+		"valor": "6.04"
+	}
+	,
+	{
+		"nombre": "SUBCOMPACTOS",
+		"imagen": "SUBCOMPACTOS.png",
+		"valor": "6.83"
+	}
+	,
+	{
+		"nombre": "SUV",
+		"imagen": "SUV.png",
+		"valor": "8.04"
+	}
+]
+}

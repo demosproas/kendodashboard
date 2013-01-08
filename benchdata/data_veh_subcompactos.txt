@@ -1,0 +1,74 @@
+{
+"items":
+[
+	{
+		"text": "CHRYSLER ATOS BASE ESTANDAR HATCHBACK 4C 4P 5OC-2007",
+		"value": "34"
+	}
+	,
+	{
+		"text": "FORD KA BASE ESTANDAR HATCHBACK 4C 3P 5OC-2004",
+		"value": "43"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS CHEVY C2 B ESTANDAR HATCHBACK 5C 4P 5OC-2008",
+		"value": "49"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS SPARK 1.2L A ESTANDAR HATCHBACK 4C 5P 5OC-2011",
+		"value": "129"
+	}
+	,
+	{
+		"text": "NISSAN MARCH SENSE AA ESTANDAR HATCHBACK 4C 5P 5OC-2011",
+		"value": "150"
+	}
+	,
+	{
+		"text": "NISSAN MARCH SENSE AA ESTANDAR HATCHBACK 4C 5P 5OC-2012",
+		"value": "150"
+	}
+	,
+	{
+		"text": "PEUGEOT 206 XT 1.6 L AA EE CD BA AUTOMATICO HATCHBACK 4C 5P 5OC-2005",
+		"value": "70"
+	}
+	,
+	{
+		"text": "PONTIAC MATIZ G2 C AA EE CD ESTANDAR HATCHBACK 4C 5P 5OC-2005",
+		"value": "71"
+	}
+	,
+	{
+		"text": "RENAULT CLIO EXPRESSION AA EE CD ESTANDAR HATCHBACK 4C 5P 5OC-2004",
+		"value": "72"
+	}
+	,
+	{
+		"text": "SEAT IBIZA SPORT 2.0L FAROS XEN AA EE QC ESTANDAR HATCHBACK 4C 3P 5OC-2004",
+		"value": "74"
+	}
+	,
+	{
+		"text": "TOYOTA YARIS PREMIUM AA EE CD BA AUTOMATICO SEDAN 4C 4P 5OC-2008",
+		"value": "81"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN GOL GT ESTANDAR HATCHBACK 4C 5P 5OC-2010",
+		"value": "84"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN POINTER BASE ESTANDAR HATCHBACK 4C 5P 5OC-2004",
+		"value": "86"
+	}
+	,
+	{
+		"text": "VOLKSWAGEN POINTER PICK UP BASE AA ESTANDAR PICK UP 4C 2P 3OC-2007",
+		"value": "87"
+	}
+]
+}

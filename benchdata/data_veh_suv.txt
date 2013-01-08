@@ -1,0 +1,54 @@
+{
+"items":
+[
+	{
+		"text": "CHRYSLER JOURNEY 2.4L SXT AA EE CD BA AUTOMATICO SUV 4C 5P 5OC-2009",
+		"value": "97"
+	}
+	,
+	{
+		"text": "CHRYSLER PATRIOT FWD BASE AA CD BA CVT SUV 4C 5P 5OC-2008",
+		"value": "36"
+	}
+	,
+	{
+		"text": "FORD ECOSPORT 4X2 AA EE BA ESTANDAR SUV 4C 4P 5OC-2006",
+		"value": "40"
+	}
+	,
+	{
+		"text": "FORD ESCAPE XLS EQ. AA EE AUTOMATICO SUV 6C 5P 5OC-2009",
+		"value": "101"
+	}
+	,
+	{
+		"text": "GENERAL MOTORS CAPTIVA 2.5 L AA EE CD BA AUTOMATICO SUV 4C 5P 5OC-2009",
+		"value": "98"
+	}
+	,
+	{
+		"text": "HONDA CR-V EX AA EE CD AUTOMATICO SUV 4C 5P 5OC-2006",
+		"value": "56"
+	}
+	,
+	{
+		"text": "JEEP LIBERTY SPORT 4X2 AUTOMATICO SUV 6C 4P 5OC-2006",
+		"value": "58"
+	}
+	,
+	{
+		"text": "MAZDA CX-7 SPORT 4X2 AA EE CD BA AUTOMATICO SUV 4C 5P 5OC-2008",
+		"value": "59"
+	}
+	,
+	{
+		"text": "NISSAN X-TRAIL SLX LUJO AA EE CD BA QC AUTOMATICO SUV 4C 5P 5OC-2005",
+		"value": "68"
+	}
+	,
+	{
+		"text": "TOYOTA RAV4 BASE AA EE AUTOMATICO SUV 4C 4P 5OC-2006",
+		"value": "79"
+	}
+]
+}

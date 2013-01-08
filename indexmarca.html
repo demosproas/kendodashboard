@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <script src="js/jquery-1.7.1.min.js"></script>
+    <script src="js/777.all.min.js"></script>
+	<script src="js/yui-min.js"></script>   
+    <script src="examples.js"></script>
+    <script src="appmarca.js"></script>
+	
+	<script>
+			var scrollView2; 	
+	</script>
+	<style>
+			#scrollview-content {
+			background-color:rgba(100, 100, 100, 0);
+				}
+	</style>			
+</head>
+	<body style="background-color:#fff;">
+	<div style="margin:0 auto; width:940px;">
+		<div id="scrollview-content"  style="background-color:none;"  >
+				<div id="main" style="height:1200px;">				
+						<div id="exampleWrap" >
+							<script>preventFOUC()</script>
+							<div id="example" class="k-content absConf">
+									<div class="demo-section">
+
+											<h5 class="example-subtitle">PLAZAS</h5>
+											<div id="plaza-filtering-tabs" class="filtering-tabs"></div>
+											<h5 class="example-subtitle">GRUPO</h5>
+											<div id="tipo-filtering-tabs" class="filtering-tabs"></div>
+											<h5 class="example-subtitle">Comparativo </h5>
+											<span class="metric"> <span class="selected-year"></span></span>
+											<br>
+											<div id="holdert1"    style= "position:relative;top:-30px;width:820px; left: 20px;" ></div>			
+											<div id="yearly-stock-prices" style= "position:relative;top:-60px;"  ></div>
+											<script type="text/x-kendo-template" id="company-info-template">
+												<dl class="stat first">
+													<dt class="example-subtitle">
+														<div id="tipodato">PRIMAS</div>
+														<span class="metric">ACTUAL</span>
+													</dt>
+													<dd class="prima-actual"></dd>
+												</dl>
+												<div class="company-trends">
+													<div class="example-subtitle">
+														INDICADORES
+														<span class="metric">RESUMEN POR COMPAÑIA</span>
+													</div>
+													<dl class="stat trend-container highest-container">
+														<dt class="example-subtitle">VALOR MAS ALTO</dt>
+														<dd class="highest"></dd>
+														<br>
+														<dd class="sparkline highest-sparkline"></dd>
+													</dl>
+													<dl class="stat trend-container lowest-container">
+														<dt class="example-subtitle">VALOR MAS BAJO</dt>
+														<dd class="lowest"></dd>
+														<br>
+														<dd class="sparkline lowest-sparkline"></dd>
+													</dl>
+													<dl class="stat trend-container">
+														<dt class="example-subtitle">VARIACION VS MEDIA</dt>
+														<dd class="relative-value"></dd>
+														<br>
+														<dd class="sparkline relative-value-sparkline"></dd>
+													</dl>
+												</div>
+												<br>													
+												<div class="separator"></div>
+												<dl class="stat first">
+													<dt class="example-subtitle">
+														Lugares
+														<span class="metric">ACTUAL</span>
+													</dt>
+													<dd class="lugar"></dd>
+												</dl>
+												<div class="lugar-chart"></div>
+											</script>
+											<div id="company-filtering-tabs" class="filtering-tabs"></div>
+											<div class="company-info" id="google"></div>
+									</div>
+									<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300" rel="stylesheet">
+							</div>
+
+							</div>
+							
+				</div>
+ </div>
+				<script>
+						YUI().use('scrollview', function(Y) {
+						 
+							var scrollView = new Y.ScrollView({
+								id: "scrollview",
+								srcNode: '#scrollview-content',
+								height: 563,
+								width: 970,
+								flick: {
+										minDistance:10,
+										minVelocity:0.3,
+										axis: "y"
+								}
+							});
+						 
+							scrollView.render();
+						});		
+						
+	 					
+				</script>
+
+						 <script type='text/javascript'>
+								var moverst2;
+								//$("#scrollview-content").animate({'left': 32 + 'px'}, 200, function(){
+										//end of animation.. if you want to add some code here
+								//	});
+						  </script>						
+</div>						  
+	</body>
+ </html>
